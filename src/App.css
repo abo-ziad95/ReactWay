@@ -1,0 +1,9 @@
+.controls{
+  display: flex;
+  justify-content: space-between;
+}
+
+.app{
+  margin: 10px;
+  width: 200px;
+}
